@@ -1,1 +1,1 @@
-CAMPO-MINADO|Sem a implemenetacao do swing. 
+CAMPO-MINADO| Sem a implemenetacao do swing. 
